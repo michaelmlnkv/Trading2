@@ -11,4 +11,8 @@ The idea of this project is to use various stochastic methods to:
     - Potentially identify pairs which might trend the same in the future
     - Backtest the shit out of it
     - Try to apply it in real time?
+- Find similar stocks using KNN and discrete time analysis
 - Model various options payoffs, taking into account Black-Scholes and the Greeks
+So far achieved:
+- pairsTrading:
+    - 
