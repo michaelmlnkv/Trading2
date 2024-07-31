@@ -9,7 +9,6 @@ The idea of this project is to use various stochastic methods to:
     - We need to select this timeframe in a probabilistically feasible manner to ensure that the results are to have any sort of significance
 - Combine the two above parts to create a model which can (semi)-reliably provide trading signals
     - Potentially identify pairs which might trend the same in the future
-    - Backtest the shit out of it
     - Try to apply it in real time?
 - Find similar stocks using KNN and discrete time analysis
 - Model various options payoffs, taking into account Black-Scholes and the Greeks
